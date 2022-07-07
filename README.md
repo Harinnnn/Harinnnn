@@ -1,7 +1,7 @@
 <div align=center>
 
   <h2>  Hi, I'm Harin! 👩🏻‍💻 </h2>
-<i><b><br>넓게 알고, 깊게 생각하고, 바르게 행동하자 😇
+<i><b><br>넓게 알고, 깊게 생각하고, 바르게 행동하자.
   <br>Know broadly, think deeply, and act rightly. </b><i>
 
    <br><hr>
